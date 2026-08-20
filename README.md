@@ -4,4 +4,4 @@ Account registration is by default status: disabled, for admin purpose.Change th
 
 <img src="https://i.ibb.co/DfD5wWzD/prompt.png">
 <br>
-<img src="https://i.ibb.co/gFDBmf2j/prompt2.png">
+[<img src="https://i.ibb.co/gFDBmf2j/prompt2.png">](https://i.ibb.co/1Yzqy9rw/prompt2.png)
